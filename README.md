@@ -1,4 +1,4 @@
-# ball-and-paddle
+# Ball And Paddle
 Ball and paddle Commodore 64 BASIC game.
 
 <img src="https://media.cuadernoinformatica.com/imagenes/commodore-64c-programacion-de-juegos/commodore-64c-ball-and-paddle.jpg"/>
